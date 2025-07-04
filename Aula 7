@@ -1,0 +1,34 @@
+Questão 1
+
+java
+    public class WrapperMethods {
+
+    public static void main(String[] args) {
+
+        String numStr = "12345";
+
+        String numDoubleStr = "3.14159";
+
+        String texto = "Exemplo de String";
+
+        // Usando Integer.parseInt()
+
+        int numInt = Integer.parseInt(numStr);
+
+        System.out.println("Inteiro a partir da string: " + numInt);
+
+        // Usando Double.parseDouble()
+
+        double numDouble = Double.parseDouble(numDoubleStr);
+
+        System.out.println("Double a partir da string: " + numDouble);
+
+        // Usando String.substring()
+
+        String subString = texto.substring(0, 7); // Extrai "Exemplo"
+
+        System.out.println("Substring: " + subString);
+
+    }
+
+}
