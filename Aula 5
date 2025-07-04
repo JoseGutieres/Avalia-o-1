@@ -1,0 +1,11 @@
+Questão 1
+
+java
+ Copyboolean produtoComDesconto = true; // Altere para true ou false para testar
+
+boolean cupomValido = false; // Altere para true ou false para testar
+
+Questão 2
+
+java
+  Copyboolean descontoAplicado = produtoComDesconto || cupomValido;
