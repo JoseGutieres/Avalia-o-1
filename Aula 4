@@ -1,0 +1,59 @@
+
+Questão 1 
+
+ java
+  Copypublic class Retangular{
+
+    public static void main(String[] args) {
+
+        // Declaração de variáveis para base e altura
+
+        double base = 5.0;  //Exemplo
+
+        double altura = 10.0; //Exemplo
+
+        // Cálculo da área
+
+        double area = base * altura;
+
+        // Cálculo do perímetro
+
+        double perimetro = 2 * (base + altura);
+
+        // Exibição dos resultados
+
+        System.out.println("Área do retângulo: " + area);
+
+        System.out.println("Perímetro do retângulo: " + perimetro);
+
+    }
+
+}
+
+
+
+Questão 2
+
+java
+
+Copypublic class ComparacaoIdades {
+
+    public static void main(String[] args) {
+
+        // Declaração de variáveis para as idades
+
+        int idade1 = 30; //Exemplo
+
+        int idade2 = 25; //Exemplo
+
+        // Comparação das idades
+
+        boolean primeiraPessoaMaisVelha = idade1 > idade2;
+
+        // Exibição do resultado
+
+        System.out.println("A primeira pessoa é mais velha: " + primeiraPessoaMaisVelha);
+
+    }
+
+}
