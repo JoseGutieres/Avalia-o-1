@@ -1,0 +1,23 @@
+Atividade 01:
+Solicitar ao usuário que insira as 8 notas anuais usando a classe Scanner.
+Calcular as médias bimestrais:
+Média do 1º bimestre: (nota1 + nota2) / 2
+Média do 2º bimestre: (nota3 + nota4) / 2
+Média do 3º bimestre: (nota5 + nota6) / 2
+Média do 4º bimestre: (nota7 + nota8) / 2
+Calcular as médias semestrais:
+Média do 1º semestre: (média1ºbimestre + média2ºbimestre) / 2
+Média do 2º semestre: (média3ºbimestre + média4ºbimestre) / 2
+Exibir os resultados na tela usando a classe System.out.println(), formatando a saída para melhor clareza.
+
+atividade 02:
+
+Declarar variáveis para armazenar a temperatura em Celsius, Fahrenheit e Kelvin.
+Solicitar ao usuário que insira a temperatura em Celsius usando a classe Scanner.
+Converter a temperatura de Celsius para
+Fahrenheit usando a fórmula fornecida:
+Fahrenheit = (Celsius * 9/5) + 32.
+Converter a temperatura de Celsius para 
+Kelvin usando a fórmula fornecida:
+Kelvin = Celsius + 273.15.
+Exibir os resultados na tela usando a classe System.out.println(), incluindo as unidades (°C, °F, K) para clareza.
